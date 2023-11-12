@@ -25,8 +25,9 @@ button{
     padding: 15px;
     border-radius: 20px;
 }
-@media screen and (max-width: 520px) {
+@media screen and (max-width: 600px) {
     body{
         margin-bottom: 210px;
+        padding-top: 50px;
     }
   }
